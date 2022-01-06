@@ -15,14 +15,14 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko-KR"                    #블로그의 주요 언어
+locale                   : "ko-KR"                    #블로그의 주요 언어`
 title                    : "Front-H"                  #사이트 탭에서 보이는 이름
 title_separator          : "-"
 subtitle                 : "drop the bit 0 and 1 "    #화면 title 하단에 있는 소제목입니다. 
 name                     : "HSH"       
 description              : "어제와 다른 나의 모습을 기대하면서"
-url                      : "https://gga01075.github.io/" #현재의 블로그 url
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : "http://localhost:4000" #현재의 블로그 url
+baseurl                  : "" #
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "" #화면에 보여지는 logo이미지
