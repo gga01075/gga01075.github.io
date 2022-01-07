@@ -12,3 +12,27 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+docs:
+   - title: HTML5/CSS3
+     children : 
+      - title : "HTML5"
+        url : /html5
+        cateory : html5
+      - title : "CSS3"
+        url : /css3
+        cateory : /css3
+      - title : "웹접근성"
+        url : /Accessibility
+        cateory : /Accessibility
+   - title : Javascript
+     children : 
+      - title : "vanillaJS"
+        url : /vanillaJS
+        cateory : vanillaJS
+      - title : "jQuery"
+        url : /jQuery
+        cateory : /jQuery
+      - title : "VueJS"
+        url : /VueJS
+        cateory : /VueJS     
